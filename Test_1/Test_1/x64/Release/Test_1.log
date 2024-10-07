@@ -1,0 +1,9 @@
+﻿  Test_1.cpp
+C:\Users\Tania\source\repos\Test_1\Test_1\Test_1.cpp(14,28): error C2679: бинарный "?": не найден оператор, принимающий правый операнд типа "std::basic_ostream<char,std::char_traits<char>>" (или приемлемое преобразование отсутствует)
+      C:\Users\Tania\source\repos\Test_1\Test_1\Test_1.cpp(14,28):
+      может быть "встроенный оператор C++ ?(int, int)"
+          C:\Users\Tania\source\repos\Test_1\Test_1\Test_1.cpp(14,28):
+          "?": невозможно преобразовать аргумент 2 из "std::basic_ostream<char,std::char_traits<char>>" в "int"
+      C:\Users\Tania\source\repos\Test_1\Test_1\Test_1.cpp(14,28):
+      при попытке сопоставить список аргументов "(int, std::basic_ostream<char,std::char_traits<char>>)"
+  
